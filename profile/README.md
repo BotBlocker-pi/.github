@@ -1,1 +1,3 @@
 ### BotSentinel
+
+BotSentinel is an innovative platform designed to identify and classify social media accounts potentially operated by artificial intelligence (AI). Inspired by the "Dead Internet Theory," the project aims to combat misinformation and online manipulation by providing users with tools to detect suspicious bot accounts. The platform includes a website and a browser extension that automatically displays account credibility while browsing. It combines collaborative evaluations from verified users with proprietary algorithms to determine the likelihood of an account being AI-managed. BotSentinel promotes transparency by allowing users to view ratings and comments on specific profiles, contributing to a safer and more trustworthy digital environment.
